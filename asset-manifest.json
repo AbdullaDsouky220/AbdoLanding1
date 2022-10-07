@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.e4e32f28.css",
-    "main.js": "/static/js/main.1d766d6a.js",
-    "static/media/carousel-item-03.jpg": "/static/media/carousel-item-03.fa6ccd7515972a723001.jpg",
-    "static/media/element2.jpg": "/static/media/element2.469ed5808d2989456469.jpg",
-    "static/media/carousel-item-01.jpg": "/static/media/carousel-item-01.f64b0928ded25a1484b5.jpg",
-    "static/media/iphone-mockup.png": "/static/media/iphone-mockup.3f11ece3f3ebff12ebb3.png",
-    "static/media/carousel-item-04.jpg": "/static/media/carousel-item-04.fdc23fc0f7fc679dcb50.jpg",
-    "static/media/carousel-item-05.jpg": "/static/media/carousel-item-05.291332e2d8d10d061820.jpg",
-    "static/media/element3.jpg": "/static/media/element3.15147e0c60df3b0f83b3.jpg",
-    "static/media/carousel-item-02.jpg": "/static/media/carousel-item-02.c3c0640f99107e2cef78.jpg",
-    "static/media/element1.jpg": "/static/media/element1.020c8320dc61f0e53436.jpg",
-    "static/media/mockup-image-01.jpg": "/static/media/mockup-image-01.5f951fb6a9b1953c569e.jpg",
-    "index.html": "/index.html",
-    "static/media/play-button.svg": "/static/media/play-button.58ff72e9d8bab34e54e60da34cf3c376.svg",
-    "main.e4e32f28.css.map": "/static/css/main.e4e32f28.css.map",
-    "main.1d766d6a.js.map": "/static/js/main.1d766d6a.js.map"
+    "main.css": "/AbdoLanding1/static/css/main.e4e32f28.css",
+    "main.js": "/AbdoLanding1/static/js/main.1f648388.js",
+    "static/media/carousel-item-03.jpg": "/AbdoLanding1/static/media/carousel-item-03.fa6ccd7515972a723001.jpg",
+    "static/media/element2.jpg": "/AbdoLanding1/static/media/element2.469ed5808d2989456469.jpg",
+    "static/media/carousel-item-01.jpg": "/AbdoLanding1/static/media/carousel-item-01.f64b0928ded25a1484b5.jpg",
+    "static/media/iphone-mockup.png": "/AbdoLanding1/static/media/iphone-mockup.3f11ece3f3ebff12ebb3.png",
+    "static/media/carousel-item-04.jpg": "/AbdoLanding1/static/media/carousel-item-04.fdc23fc0f7fc679dcb50.jpg",
+    "static/media/carousel-item-05.jpg": "/AbdoLanding1/static/media/carousel-item-05.291332e2d8d10d061820.jpg",
+    "static/media/element3.jpg": "/AbdoLanding1/static/media/element3.15147e0c60df3b0f83b3.jpg",
+    "static/media/carousel-item-02.jpg": "/AbdoLanding1/static/media/carousel-item-02.c3c0640f99107e2cef78.jpg",
+    "static/media/element1.jpg": "/AbdoLanding1/static/media/element1.020c8320dc61f0e53436.jpg",
+    "static/media/mockup-image-01.jpg": "/AbdoLanding1/static/media/mockup-image-01.5f951fb6a9b1953c569e.jpg",
+    "index.html": "/AbdoLanding1/index.html",
+    "static/media/play-button.svg": "/AbdoLanding1/static/media/play-button.58ff72e9d8bab34e54e60da34cf3c376.svg",
+    "main.e4e32f28.css.map": "/AbdoLanding1/static/css/main.e4e32f28.css.map",
+    "main.1f648388.js.map": "/AbdoLanding1/static/js/main.1f648388.js.map"
   },
   "entrypoints": [
     "static/css/main.e4e32f28.css",
-    "static/js/main.1d766d6a.js"
+    "static/js/main.1f648388.js"
   ]
 }
