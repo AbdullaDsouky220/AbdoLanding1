@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components {
+    .btn {
+        @apply bg-emerald-400 py-2 px-3 rounded text-white hover:bg-emerald-600/80 transition cursor-pointer
+    }
+    .active {
+        @apply bg-emerald-400
+    }
+    .showSection {
+        @apply opacity-100
+    }
+    .hideSection {
+        @apply opacity-0 transition-all blur-md -translate-x-full
+    }
+}
